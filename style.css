@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+body {
+    background-image: url(background.jpg);
+}
